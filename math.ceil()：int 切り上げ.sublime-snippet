@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+math.ceil(${1:})
+]]></content>
+    <tabTrigger>ceil</tabTrigger>
+    <scope>source.python</scope>
+    <description>math.ceil(a)：int 切り上げ</description>
+</snippet>

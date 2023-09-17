@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+int(sys.stdin.readline().strip())
+]]></content>
+    <tabTrigger>readline_int</tabTrigger>
+    <scope>source.python</scope>
+    <description>readline():int</description>
+</snippet>

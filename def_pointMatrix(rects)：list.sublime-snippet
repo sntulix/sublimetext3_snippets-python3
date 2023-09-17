@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+def pointMatrix(rects):
+	for r in rects:
+		pt_a = r[0]
+		pt_b = r[1]
+		pt_c = r[2]
+		pt_d = r[3]
+
+		y = pt_a[1]
+		for y in range(pt_a[1], pt_d[1]):
+			for x in range(pt_a[0], pt_b[0]):
+				matrix[y][x] = '*'
+	return matrix
+]]></content>
+    <tabTrigger>def_pointMatrix</tabTrigger>
+    <scope>source.python</scope>
+    <description>def pointMatrix(rects):list</description>
+</snippet>

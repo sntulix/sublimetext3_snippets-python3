@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+split(' ')
+]]></content>
+    <tabTrigger>split</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

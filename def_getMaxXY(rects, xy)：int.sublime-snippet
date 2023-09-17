@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+def getMaxXY(rects, xy):
+	max_xy = 0
+	for r in rects:
+		for pt in r:
+			if max_xy<pt[xy]:
+				max_xy = pt[xy]
+	return max_xy
+]]></content>
+    <tabTrigger>def_getMaxXY</tabTrigger>
+    <scope>source.python</scope>
+    <description>def getMaxXY(rects, xy):int</description>
+</snippet>

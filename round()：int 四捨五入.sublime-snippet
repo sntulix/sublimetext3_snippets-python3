@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+round(${1:})
+]]></content>
+    <tabTrigger>round</tabTrigger>
+    <scope>source.python</scope>
+    <description>round(a)：int 四捨五入</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+format(${1:})
+]]></content>
+    <tabTrigger>format</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

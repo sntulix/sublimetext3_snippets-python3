@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+def getListFromStdin(N):
+	i = 0
+	result = []
+	while(i<N):
+		y = []
+		for x in sys.stdin.readline().strip().split(' '):
+			y.append(int(x))
+		result.append(y)
+		i = i + 1
+	return result
+]]></content>
+    <tabTrigger>def_getListFromStdin</tabTrigger>
+    <scope>source.python</scope>
+    <description>def getListFromStdin(Num):list</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+sys.stdin.readline()
+]]></content>
+    <tabTrigger>readline</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

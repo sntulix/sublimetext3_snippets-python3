@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+math.trunc(${1:})
+]]></content>
+    <tabTrigger>trunc</tabTrigger>
+    <scope>source.python</scope>
+    <description>math.trunc(a)：int 0に向かって切り捨て</description>
+</snippet>

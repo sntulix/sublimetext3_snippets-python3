@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+buildMatrix(W, H)
+]]></content>
+    <tabTrigger>buildMatrix</tabTrigger>
+    <scope>source.python</scope>
+    <description>buildMatrix(W, H):list</description>
+</snippet>

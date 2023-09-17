@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pointMatrix(rects)
+]]></content>
+    <tabTrigger>pointMatrix</tabTrigger>
+    <scope>source.python</scope>
+    <description>pointMatrix(rects):list</description>
+</snippet>

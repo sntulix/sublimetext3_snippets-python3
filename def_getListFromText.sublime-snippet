@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+def getListFromText(N, buf):
+	size = len(buf)
+	i = 0
+	tmp = ""
+	result = []
+	if buf[0]=="\n":
+		i = i + 1
+	while (i<size):
+		if buf[i]=="\n":
+			y = []
+			for x in tmp.strip().split(' '):
+				y.append(int(x))
+			result.append(y)
+			tmp = ""
+		tmp = tmp + buf[i]
+		i = i + 1
+	return result
+
+]]></content>
+    <tabTrigger>def_getListFromText</tabTrigger>
+    <scope>source.python</scope>
+    <description>def getListFromText(Num, Buf):list</description>
+</snippet>

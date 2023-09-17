@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getMaxXY(rects, xy)
+]]></content>
+    <tabTrigger>getMaxXY</tabTrigger>
+    <scope>source.python</scope>
+    <description>getMaxXY(rects, xy):int</description>
+</snippet>

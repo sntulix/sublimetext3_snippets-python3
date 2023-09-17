@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+def buildMatrix(W, H):
+	rows = []
+	for h in range(H):
+		cols = []
+		for w in range(W):
+			cols.append('.')
+		rows.append(cols)
+	return rows
+]]></content>
+    <tabTrigger>def_buildMatrix</tabTrigger>
+    <scope>source.python</scope>
+    <description>def buildMatrix(W, H):list</description>
+</snippet>

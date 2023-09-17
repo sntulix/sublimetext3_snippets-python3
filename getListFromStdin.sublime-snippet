@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getListFromStdin(${1:})
+]]></content>
+    <tabTrigger>getListFromStdin</tabTrigger>
+    <scope>source.python</scope>
+    <description>getListFromStdin(Num):list</description>
+</snippet>

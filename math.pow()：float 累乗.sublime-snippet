@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pow(${1:}, ${2:})
+]]></content>
+    <tabTrigger>pow</tabTrigger>
+    <scope>source.python</scope>
+    <description>math.pow(a, b):float 累乗</description>
+</snippet>

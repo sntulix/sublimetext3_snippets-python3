@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+sorted(${1:})
+]]></content>
+    <tabTrigger>sorted</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+math.floor(${1:})
+]]></content>
+    <tabTrigger>floor</tabTrigger>
+    <scope>source.python</scope>
+    <description>math.floor(a)：int 切り捨て</description>
+</snippet>
