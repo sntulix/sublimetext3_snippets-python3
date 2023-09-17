@@ -2,7 +2,7 @@
     <content><![CDATA[
 sys.stdin.readline().strip().split(' ')
 ]]></content>
-    <tabTrigger>readline_int</tabTrigger>
+    <tabTrigger>readline_list_int</tabTrigger>
     <scope>source.python</scope>
     <description>readline():list</description>
 </snippet>
